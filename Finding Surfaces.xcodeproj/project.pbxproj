@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		F581A69329ABD0740001A01A /* screenshot02.png in Resources */ = {isa = PBXBuildFile; fileRef = F581A69129ABD0740001A01A /* screenshot02.png */; };
 		F581A69429ABD0740001A01A /* screenshot01.png in Resources */ = {isa = PBXBuildFile; fileRef = F581A69229ABD0740001A01A /* screenshot01.png */; };
+		F581A69629ABD61A0001A01A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F581A69529ABD61A0001A01A /* README.md */; };
 		F58302BA29A54907003B1770 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F58302B929A54907003B1770 /* AppDelegate.swift */; };
 		F58302BC29A54907003B1770 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = F58302BB29A54907003B1770 /* art.scnassets */; };
 		F58302BE29A54907003B1770 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F58302BD29A54907003B1770 /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		F581A69129ABD0740001A01A /* screenshot02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot02.png; sourceTree = "<group>"; };
 		F581A69229ABD0740001A01A /* screenshot01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot01.png; sourceTree = "<group>"; };
+		F581A69529ABD61A0001A01A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F58302B629A54907003B1770 /* Finding Surfaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Finding Surfaces.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F58302B929A54907003B1770 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F58302BB29A54907003B1770 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -52,6 +54,7 @@
 		F58302AD29A54907003B1770 = {
 			isa = PBXGroup;
 			children = (
+				F581A69529ABD61A0001A01A /* README.md */,
 				F58302B829A54907003B1770 /* Finding Surfaces */,
 				F58302B729A54907003B1770 /* Products */,
 			);
@@ -140,6 +143,7 @@
 				F581A69429ABD0740001A01A /* screenshot01.png in Resources */,
 				F58302BC29A54907003B1770 /* art.scnassets in Resources */,
 				F58302C629A54909003B1770 /* LaunchScreen.storyboard in Resources */,
+				F581A69629ABD61A0001A01A /* README.md in Resources */,
 				F58302C329A54909003B1770 /* Assets.xcassets in Resources */,
 				F581A69329ABD0740001A01A /* screenshot02.png in Resources */,
 				F58302C129A54907003B1770 /* Main.storyboard in Resources */,
